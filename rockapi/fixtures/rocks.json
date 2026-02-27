@@ -24,7 +24,7 @@
     "pk": 3,
     "fields": {
       "user": 2,
-      "type": 5,
+      "type": 4,
       "name": "Sasha",
       "weight": 0.29
     }
